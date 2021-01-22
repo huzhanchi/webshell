@@ -5,7 +5,7 @@
 * 0.jsp
 最直接的写法直接over。另外发现windows defender也有对webshell检查。
 
-![image](https://github.com/huzhanchi/webshell/blob/main/images/defender.png)
+![image](https://github.com/huzhanchi/webshell/blob/master/images/defender.png)
 
 * 1.jsp
 jdk自带javascript引擎，其中从jdk1.6默认实现是：Rhino jdk1.8之后是：nashorn。代码中有对jdk不同版本做了适配。
